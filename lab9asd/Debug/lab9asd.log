@@ -1,0 +1,3 @@
+﻿  lab9asd.cpp
+D:\навчання\асд\lab9asd\lab9asd.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab9asd.vcxproj -> D:\навчання\асд\lab9asd\Debug\lab9asd.exe
